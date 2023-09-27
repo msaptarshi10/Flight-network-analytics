@@ -11,6 +11,8 @@
 
 ## Raw Data
 
+![Raw data](https://github.com/msaptarshi10/Flight-network-analytics/assets/109888153/906f4e3e-39aa-4cd6-8ba1-b89ef6b83c88)
+
 
 
 ## Pre-processing
